@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Arithmetic Expression Language ANTLR4",
+            "request": "launch",
+            "mainClass": "ru.rusanoph.App",
+            "args": "C:/Users/007/Desktop/ANTLR/airthmeticexpressionlang/src/main/java/ru/rusanoph/t.expr"
+        },
+    ]
+}
